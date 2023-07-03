@@ -25,8 +25,8 @@
 
 ## 🏆 Github Stats
 <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img height=200 src="https://github-readme-stats.vercel.app/api/?username=coderzds&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" />            
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=200 src="https://github-readme-stats.vercel.app/api/?username=coderzds&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default" />            
     </a>
 </p>
 <p align="left"> <img src="https://github.com/coderzds/coderzds/blob/output/snk.svg" alt="snake" />
