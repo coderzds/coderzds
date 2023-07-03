@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">👋 Thanks For Your Visit</h1>
 
-<!--
-**coderzds/coderzds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://komarev.com/ghpvc/?username=coderzds&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /></p>
 
-Here are some ideas to get you started:
+## 🤵 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💀 A loser of success
+- 🤡 A joker of life
+- 👨‍💻 A layman of program
+
+## 📬 Reach Me
+
+<a href="https://blog.csdn.net/coderzds" target="_blank">
+    <img src="https://img.shields.io/badge/CSDN-%E8%8B%8F%E6%A0%BC%E9%87%8C%E6%8B%89x-rgb(252,%2085,%2050).svg">
+</a>
+<a href="https://space.bilibili.com/548972545" target="_blank">
+    <img src="https://img.shields.io/badge/bilibili-%E8%8B%8F%E6%A0%BC%E9%87%8C%E6%8B%89x-rgb(0,%20162,%20215).svg">
+</a>
+<a href="https://www.zhihu.com/people/coderzds" target="_blank">
+    <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E8%8B%8F%E6%A0%BC%E9%87%8C%E6%8B%89x-rgb(1,%2098,%20255).svg">
+</a>
+<a href="https://juejin.cn/user/3787135447476957" target="_blank">
+    <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E8%8B%8F%E6%A0%BC%E9%87%8C%E6%8B%89x-rgb(30,%20128,%20255).svg">
+</a>
+
+## 🏆 Github Stats
+<p align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=coderzds&show_icons=true&theme=dark" alt="coderzds" />
+</a>
+</p>
+<p align="left"> <img src="https://github.com/coderzds/coderzds/blob/output/snk.svg" alt="snake" />
+
