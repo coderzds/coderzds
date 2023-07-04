@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/CSDN-%E8%8B%8F%E6%A0%BC%E9%87%8C%E6%8B%89x-rgb(252,%2085,%2050).svg">
 </a>
 <a href="https://space.bilibili.com/548972545" target="_blank">
-    <img src="https://img.shields.io/badge/bilibili-%E8%8B%8F%E6%A0%BC%E9%87%8C%E6%8B%89x-rgb(0,%20162,%20215).svg">
+    <img src="https://img.shields.io/badge/bilibili-%E8%8B%8F%E6%A0%BC%E9%87%8C%E6%8B%89x-rgb(251,%20114,%20153).svg">
 </a>
 <a href="https://www.zhihu.com/people/coderzds" target="_blank">
     <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E8%8B%8F%E6%A0%BC%E9%87%8C%E6%8B%89x-rgb(1,%2098,%20255).svg">
