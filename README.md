@@ -22,6 +22,9 @@
 <a href="https://juejin.cn/user/3787135447476957" target="_blank">
     <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E8%8B%8F%E6%A0%BC%E9%87%8C%E6%8B%89x-rgb(30,%20128,%20255).svg">
 </a>
+<a href="https://github.com/coderzds/coderzds/blob/master/img/wechat.png" target="_blank">
+    <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E8%8B%8F%E6%A0%BC%E9%87%8C%E6%8B%89x-rgb(7,%20193,%2096).svg">
+</a>
 
 ## 🏆 Github Stats
 <p align="left">
