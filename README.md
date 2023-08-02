@@ -35,5 +35,9 @@
         <img height=200 src="https://github-readme-stats.vercel.app/api/?username=coderzds&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" />
     </a>
 </p>
-<p align="left"> <img src="https://github.com/coderzds/coderzds/blob/output/snk.svg" alt="snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coderzds/coderzds/output/snk-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coderzds/coderzds/output/snk.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coderzds/coderzds/output/snk.svg">
+</picture>
 
